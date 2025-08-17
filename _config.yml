@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: RioAudio # the main title
 
-tagline: some essays # it will display as the subtitle
+tagline: some essays about audio # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -109,7 +109,7 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: # [disqus | utterances | giscus]
+  provider: giscus
   # The provider options are as follows:
   disqus:
     shortname: # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
@@ -119,10 +119,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: # <gh-username>/<repo>
-    repo_id:
-    category:
-    category_id:
+    repo: "liuli1996/liuli1996.github.io"
+    repo_id: "R_kgDON6HYyw"
+    category: "Comments"
+    category_id: "DIC_kwDON6HYy84CuQkR"
     mapping: # optional, default to 'pathname'
     strict: # optional, default to '0'
     input_position: # optional, default to 'bottom'
