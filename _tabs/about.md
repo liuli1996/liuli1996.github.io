@@ -4,8 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-I'm an Audio Algorithm Engineer in the manufacturing industry. Outside of work, I'm a passionate electric guitarist and perform regularly with my band, specializing in J-POP covers. I also maintain a personal blog documenting my learning journey, aiming to share insights that might benefit others.
+I'm an audio algorithm engineer in a technology company. 
 
-this is a personal blog about audio processing and speech machine learning.
+Outside of work, I'm a passionate electric guitarist and perform regularly with my band, specializing in J-POP covers. 
+
+I maintain this personal blog documenting my learning journey, aiming to share insights that might benefit others.
 
 If you have any question or anything discussed, plese contact with me.
